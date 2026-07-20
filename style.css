@@ -296,7 +296,4 @@ html{
 section h2{
     caret-color: transparent;
 }
-h1, h2, h3{
-    user-select: none;
-    caret-color: transparent;
-}
+
